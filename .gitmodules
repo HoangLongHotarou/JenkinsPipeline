@@ -1,0 +1,3 @@
+[submodule "pet-clinic-library"]
+	path = pet-clinic-library
+	url = https://github.com/HoangLongHotarou/JenkinsPipeline
